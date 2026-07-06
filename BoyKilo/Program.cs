@@ -25,7 +25,7 @@ namespace BoyKilo
             }
             else if (index <= 29.9)
             {
-                Console.WriteLine("Fazla kilolusunuz :  " + index);
+                Console.WriteLine("Fazla kilolusunuz Abi :  " + index);
             }
             else if (index <= 34.9)
             {
